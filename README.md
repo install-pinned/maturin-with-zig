@@ -14,7 +14,7 @@ In your GitHub Actions workflow, use this action like so:
 
 ```yaml
       - name: Install maturin[zig] from PyPI
-        uses: install-pinned/maturin-with-zig@3b76927fcfe3d1257e86a4056227e11d6c481cef  # 0.14.1
+        uses: install-pinned/maturin-with-zig@c05a9be3fac3632f1940ffacf97c7ecb90a45d4c  # 0.14.2
 ```
 
 ## Alternatives
