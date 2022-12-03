@@ -19,12 +19,12 @@ maturin[zig]==0.14.3 \
     --hash=sha256:e55e6ceeed561d8430a08b75d1e2dbb9a0bde9e56df1e42d26c9d91d74714452 \
     --hash=sha256:f6caada4a5c4cc76a6d7bca13c70e2ebf0dc2190b0d18ccb3b81deb8056d61aa
     # via -r pins/requirements.in
-ziglang==0.10.0 \
-    --hash=sha256:02f565269421e6d0fb71634144752df62de852402508a06d292960388d7db462 \
-    --hash=sha256:1cb3b68c2d1a52dbc2c28d43d4a576bf36f35be7885e79a67b48a9bbaa65918e \
-    --hash=sha256:674b0a718b8ac04e6ef73cc20c9634f2007f48e847eee4e2e937f028668bad1a \
-    --hash=sha256:79401b92155cad8d9481005c7c6d470539d600278da4022af62ac603913d4513 \
-    --hash=sha256:8da27e3d09c0cf625d6849c6db1350aa7bb32370541575b995adc073ebefecfd \
-    --hash=sha256:9eed6ccc5ef58c5dada492aa07fff5e730311778dca2a863fc5ef0e5a167738e \
-    --hash=sha256:dcd9dadfcb9b8b147fd05e9aaeca1f06927cbd2f2036672738c232ce59453394
+ziglang==0.10.0.post1 \
+    --hash=sha256:0e571d8083d28f28ed62cce674deeda3f46426ea85f2162806cc8e930409a73f \
+    --hash=sha256:1bacc50301eaf9612a4694ea5c2dca7df090a05f5a251a824deced201189e5f8 \
+    --hash=sha256:2d95f0aad480e6ae42c33e1c19c8a07dee62124c28b3c8f18d7c6b1e48d0b10c \
+    --hash=sha256:3f0263acc26cc7c6e36284afb057bede504fa92751b55bfeacbb2f1180f8c053 \
+    --hash=sha256:b1439d1b8001adaf5bc4a4764762763c29b09546be400d916bee1d8b4dcdb12f \
+    --hash=sha256:bd80fbee04e0d8dc62f0e8db65f93fac6e49a54f2fa7e2ed2cb6869823aadb7d \
+    --hash=sha256:c29a875f10164c57f6b0cbc1fbf1b0a45a6694cf34b7e0b8de18d89864d0662b
     # via maturin
