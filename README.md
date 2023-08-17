@@ -20,7 +20,7 @@ In your GitHub Actions workflow, use this action like so:
 
 ```yaml
       - name: Install maturin[zig] from PyPI
-        uses: install-pinned/maturin-with-zig@f8755c7efddf2c99a85c82466fcd9f96bafbef95  # 1.2.2
+        uses: install-pinned/maturin-with-zig@a0e4b2f7abbe1a8483bc0362911557a62cb842e2  # 1.2.3
 ```
 
 You can [set up Dependabot](https://docs.github.com/en/code-security/dependabot/working-with-dependabot/keeping-your-actions-up-to-date-with-dependabot#example-dependabotyml-file-for-github-actions)
