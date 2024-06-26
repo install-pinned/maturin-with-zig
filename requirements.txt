@@ -15,12 +15,12 @@ maturin[zig]==1.6.0 ; python_version >= "3.8" and python_version < "4.0" \
 tomli==2.0.1 ; python_version >= "3.8" and python_version < "3.11" \
     --hash=sha256:939de3e7a6161af0c887ef91b7d41a53e7c5a1ca976325f429cb46ea9bc30ecc \
     --hash=sha256:de526c12914f0c550d15924c62d72abc48d6fe7364aa87328337a31007fe8a4f
-ziglang==0.12.0 ; python_version >= "3.8" and python_version < "4.0" \
-    --hash=sha256:044136e276e80dfdc7cfaada80efe8679d0ba9f8abf911f8c68afa44ca259148 \
-    --hash=sha256:0c777f1d5d9be32d0edffc79956d03ed35f868a8db7b0552da0984182aa10ff0 \
-    --hash=sha256:1cb9e6938ec8cddba124ebf2dcaf950e19b5b807eaa18cb976c569e6edef5ae3 \
-    --hash=sha256:1f9291fd98c4e1ece04285ddf019b9999b2e81fb4f785b550b6d91b1e1699bc9 \
-    --hash=sha256:8da631bfb5e49390f0551a4412111c8a14671fd7f151e1adcc420317b02efcf6 \
-    --hash=sha256:9373c68cf654d69f46411eff2fd48cb8495b8d9bcd6e88b65783ef8ab4bfe4ae \
-    --hash=sha256:c6d1053f0e1d486cdf374f33b7ed00d99040d03f45eed5122a7522b0b7a75946 \
-    --hash=sha256:ccec405a443016647c47edcd48faf15be9d3add21c2c13bc77217b8fe87a1508
+ziglang==0.12.1 ; python_version >= "3.8" and python_version < "4.0" \
+    --hash=sha256:011717479951d820e9a0fe0b61b9132560f4094861fca54d66595b66f8aee23a \
+    --hash=sha256:0489dfbc6186f528fd7a18c713d13303bcc62f0a281e469599ba5645ecbf4ac0 \
+    --hash=sha256:5164d25349441c890b8cf928317a533e3338e3603285c394001ea12ba6af7687 \
+    --hash=sha256:66fbb91889d7cfca5a9e3820e07cbbaa6ffbeadb1402b2db3cd7702b5fe43372 \
+    --hash=sha256:945ea8ac157373e8437b377f7eac39f16fe63cd21b2b27fb4e518466e1cd561d \
+    --hash=sha256:c5344e28e9ce4a48949f140c2bb6457e10107dfed27da8af7611f7640bc50177 \
+    --hash=sha256:dcde948140b9e5776c2295b9b808fb4950df7ecadaecb54623dd701502be2017 \
+    --hash=sha256:e166297bc3fa4e8f7e4f8ca4fdd3e20fc6821a27fd3b6ca04268654a5003a8ba
